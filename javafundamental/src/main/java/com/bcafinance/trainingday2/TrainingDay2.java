@@ -1,4 +1,4 @@
-package javafundamental;
+package com.bcafinance.trainingday2;
 
 /*
 @Author Jett A.K.A. Jett Enrico Chandra
