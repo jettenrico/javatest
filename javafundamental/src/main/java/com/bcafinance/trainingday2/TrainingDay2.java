@@ -45,11 +45,11 @@ public class TrainingDay2 {
 				tes += (char)intAsciChar;
 			}
 			else if (i<6) {
-				intAsciChar = ran.nextInt(97,122); 
+				intAsciChar = ran.nextInt(97,123); 
 				tes += (char)intAsciChar;
 			}
 			else  {
-				intAsciChar = ran.nextInt(48,57); 
+				intAsciChar = ran.nextInt(48,58); 
 				tes += (char)intAsciChar;
 			}
 			
